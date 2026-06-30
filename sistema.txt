@@ -1,0 +1,3 @@
+Los comandos de información del sistema permiten conocer el estado y las características de un equipo o servidor. Por ejemplo, algunos comandos muestran el sistema operativo instalado, la versión del kernel, el uso de memoria, el espacio disponible en disco, los usuarios conectados y los procesos en ejecución.
+
+Conocer esta información es útil al administrar un servidor porque ayuda a monitorear su funcionamiento, detectar problemas de rendimiento, verificar recursos disponibles y tomar decisiones para mantener la estabilidad y seguridad del sistema. Además, permite realizar tareas de mantenimiento y solucionar fallos de manera más eficiente.
