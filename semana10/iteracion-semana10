@@ -1,0 +1,18 @@
+ITERACIÓN SEMANA 10
+
+¿Qué 2 tareas del backlog harías primero?
+
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+2. Como coordinador quiero recibir una alerta en Telegram cuando se registre un nuevo reporte.
+
+¿Por qué son las más importantes?
+
+Porque permiten que los ciudadanos reporten situaciones de interés y que los coordinadores reciban una notificación inmediata para iniciar el seguimiento correspondiente. Estas funciones son la base para el funcionamiento del sistema.
+
+¿Qué significa para ti que una tarea esté terminada?
+
+Una tarea está terminada cuando:
+
+- Funciona correctamente según lo planeado.
+- Fue probada y no presenta errores.
+- Quedó registrada en GitHub con evidencia del trabajo realizado.
