@@ -1,0 +1,7 @@
+Evento: Se registra un nuevo apoyo a una causa en la plataforma.
+
+Mensaje: "La causa ha recibido un nuevo apoyo. Revisa la plataforma para ver el avance de la petición."
+
+Información que no debe enviarse por seguridad: números de cédula, teléfonos, correos electrónicos, direcciones, contraseñas, comentarios privados ni ningún otro dato personal sensible de los usuarios.
+
+Esta automatización puede realizarse con n8n para enviar una notificación automática a un grupo de Telegram cada vez que una causa reciba un nuevo apoyo.
